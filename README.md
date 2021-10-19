@@ -5,40 +5,11 @@ Flight Search Engine implements Flight search functionality. User can input and 
 This project makes use of React ecosystem primarily and was seeded with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
-## Folder Structure
-
-After creation, your project should look like this:
+## LINK
+https://stoic-dubinsky-08f185.netlify.app/
 
 ```
-my-app/
-  README.md
-  node_modules/
-  package.json
-  public/
-    datepicker.css
-    favicon.ico
-    index.html
-    styles.css
-    src/
-    	components/
-    		App/
-    			App.css
-    			App.js
-     		CustSlider/
-				CustSlider.js
-			Item/
-				Item.css
-				Item.js
-				Item.logo
-			ItemPage/
-				ItemPage.css
-				ItemPage.js
-		data/
-			data.js
-		index.css
-		index.js
-		
-```
+
 
 
 ## Available Commands
